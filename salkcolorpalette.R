@@ -1,0 +1,18 @@
+salkcol=c(
+  salk1="#8a3537",
+  salk2="#b8422f",
+  salk3="#a5406e",
+  salk4="#b7687a",
+  salk5="#639890",
+  salk6="#248491",
+  salk7="#68765b",
+  salk8="#4f5c46",
+  salk9="#728baa",
+  salk10="#556981",
+  salk11="#f2b627",
+  salk12="#cf9b50",
+  salk13="#c8503b",
+  salk14="#433d6a",
+  salk15="#453d43",
+  salk16="#5c4c3f"
+)
